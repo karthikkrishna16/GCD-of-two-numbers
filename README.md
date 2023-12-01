@@ -27,7 +27,7 @@ Program to find the gcd of two number using function.
 Developed by: TH KARTHIK KRISHNA 
 RegisterNumber: 23014165  
 */
-```
+
 
 ## Output:
 ![image](https://github.com/karthikkrishna16/GCD-of-two-numbers/assets/148514663/f20a59fc-b08e-4e00-b38f-a0224d5b7fe1)
